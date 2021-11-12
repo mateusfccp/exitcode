@@ -1,0 +1,10 @@
+name: exitcode
+description: Preferred system exit codes as defined by sysexits.h
+version: 1.0.0
+repository: https://github.com/mateusfccp/exitcode
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+dev_dependencies:
+  lints: ^1.0.0
