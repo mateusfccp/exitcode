@@ -1,10 +1,10 @@
 name: exitcode
-description: Preferred system exit codes as defined by sysexits.h
-version: 1.0.0
+description: Preferred system exit codes as defined by sysexits.h from FreeBSD.
+version: 1.0.1
 repository: https://github.com/mateusfccp/exitcode
 
 environment:
-  sdk: '>=2.14.4 <3.0.0'
+  sdk: '>=2.12.0 <4.0.0'
 
 dev_dependencies:
-  lints: ^1.0.0
+  lints: ^4.0.0

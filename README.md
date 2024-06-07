@@ -1,5 +1,5 @@
 # exitcode
-System exit code constants as defined by [sysexits.h](https://www.freebsd.org/cgi/man.cgi?query=sysexits&apropos=0&sektion=0&manpath=FreeBSD+4.3-RELEASE&format=html)
+System exit code constants as defined by [sysexits.h](https://man.freebsd.org/cgi/man.cgi?query=sysexits&apropos=0&sektion=0&manpath=FreeBSD+14.1-STABLE&arch=default&format=html) from FreeBSD.
 
 # Example
 ```dart

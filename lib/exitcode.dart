@@ -1,6 +1,1 @@
-/// Support for doing something awesome.
-///
-/// More dartdocs go here.
-library exitcode;
-
 export 'src/exitcode.dart';
